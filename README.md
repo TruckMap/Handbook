@@ -8,8 +8,8 @@ At TruckMap we like to be agile and pragmatic about everything we do. In that sp
 1. [What We Believe](https://github.com/TruckMap/Handbook#what-we-believe)
 2. [Values](https://github.com/TruckMap/Handbook#values)
 3. [Time off](https://github.com/TruckMap/Handbook#time-off)
-3. [Policies](https://github.com/TruckMap/Handbook#policies)
-4. [Benefits](https://github.com/TruckMap/Handbook#benefits)
+4. [Policies](https://github.com/TruckMap/Handbook#policies)
+5. [Benefits](https://github.com/TruckMap/Handbook#benefits)
 
 ## What We Believe
 #### At TruckMap, we believe...
