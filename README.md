@@ -1,4 +1,3 @@
-
 # TruckMap Employee Handbook
 
 ## Preamble
@@ -25,7 +24,7 @@ At TruckMap we like to be agile and pragmatic about everything we do. In that sp
    * Purpose - the sense that your job is important and you are having an impact
    * Transparency - easy access to information about your team's goals and performance
    * Feedback - on your performance so that you can learn and improve
-   * Community - the bond you share with colleagues as your strive toward a common goals
+   * Community - the bond you share with colleagues as you strive toward common goals
    * Empowerment - the confidence and autonomy to experiment, learn, and then take action
 
 #### We work toward a future in which...
@@ -114,26 +113,26 @@ Embodying this value means:
 
 Our industry has [well-documented](http://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon) [problems](http://wpusa.org/WPUSA_TechsDiversityProblem.pdf) when it comes to [workplace diversity](http://techcrunch.com/2015/07/28/what-a-truly-diverse-tech-company-would-look-like/). This fact makes it easy for tech companies to skew everything from their employment policies to the features they develop toward the needs of the dominant group - which is both a disservice to our customers and reinforces the lack of diversity in our industry.
 
-Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Textio](https://textio.com/)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. And we invite feedback from job applicants and employees alike about how we can better embrace diversity. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU), and welcome your help in identifying and mitigating them.
+Our dedication to diversity goes beyond simply putting equal opportunity copy on our job descriptions. We use tools (like [Textio](https://textio.com/)) to eliminate gender bias from the language of our job postings, and actively seek out applicants from diverse backgrounds. And we invite feedback from job applicants and employees alike about how we can better embrace diversity. We all have [unconscious biases](https://www.youtube.com/watch?v=nLjFTHTgEVU) and welcome your help in identifying and mitigating them.
 
 On an individual level, employees help create an inclusive and welcoming environment first by learning about how privilege and bias can work to exclude certain voices in the workplace. For example, [meetings are often a situation in which women, minorities, and people with reserved personalities struggle to be heard](https://hbr.org/2014/06/women-find-your-voice). If you are someone who feels comfortable and confident in meetings and usually speaks early and often, try asking for input from your colleagues before giving your opinion. Encourage others who do speak up by practicing active listening and thanking them for their input.
 
-On a product level, we strive to build a software tools that are inclusive and welcoming to all, and will hold ourselves accountable for how our product is used by our customers.
+On a product level, we strive to build software tools that are inclusive and welcoming to all and will hold ourselves accountable for how our product is used by our customers.
 
 ### Delight the customer
 
 Embodying this value means:
 * Provide a delightful experience
-* Make it fun & easy
+* Make it simple, helpful, and reliable
 * Deliver value over the long term
 * Take time to listen to and empathize with the customer
 * Be accountable for how people experience our product and company
 
 This is a value as old as business itself, but it’s fundamental to how we operate at TruckMap. We are a business, and the only way we can stay in business is by attracting and retaining customers.
 
-From the very start of TruckMap, we've focused on building a product that our customers find easy, fun, and useful. We pride ourselves on making the work a more fun, fulfilling, and positive experience for all our users - day after day, month after month, and year after year.
+From the very start of TruckMap, we've focused on building a product that our customers find simple, helpful, and reliable.
 
-To that end, everyone at TruckMap focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do, because we don’t just serve customers -- we delight them.
+To that end, everyone at TruckMap focuses on the customer -- their needs, challenges, feedback, ideas, and behaviors. This focus is foundational to everything we do because we don’t just serve customers -- we delight them.
 
 ## Time Off
 ### Vacation
@@ -141,7 +140,7 @@ We want you to take the time you need to refresh and recharge. Many startups off
 
 Instead, we set a minimum expected vacation. Our expectation is that everyone (including founders and early hires) will take a **minimum of 2 weeks** (10 days) vacation per year. If you have taken less than two weeks of vacation in a calendar year, expect your manager to talk to you about it.
 
-Can you truly take unlimited vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee will take off up to 25 days per year. Can you take more than that? Sure, but we'd recommend having a coversation with your manager about it ahead of time.
+Can you truly take "unlimited" vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee will take off a few weeks per year. Can you take more than that? Sure, but we'd recommend having a conversation with your manager about it ahead of time.
 
 TruckMap observes all [US federal holidays](https://www.federalpay.org/holidays), plus the day after Thanksgiving.
 
