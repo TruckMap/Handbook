@@ -168,6 +168,4 @@ Employees are eligible for a $300 monthly insurance reimbursement, and any spous
 ### Professional Development
 TruckMap will reimburse approved professional development expenses, up to $200 per employee per year.
 
-### Wellness
-TruckMap will reimburse approved wellness expenses (e.g. gym membership, yoga classes), up to $200 per employee per year.
 
