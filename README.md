@@ -8,6 +8,7 @@ At TruckMap we like to be agile and pragmatic about everything we do. In that sp
 1. [What We Believe](https://github.com/TruckMap/Handbook#what-we-believe)
 2. [Values](https://github.com/TruckMap/Handbook#values)
 3. [Time off](https://github.com/TruckMap/Handbook#time-off)
+3. [Policies](https://github.com/TruckMap/Handbook#policies)
 4. [Benefits](https://github.com/TruckMap/Handbook#benefits)
 
 ## What We Believe
@@ -148,6 +149,18 @@ TruckMap observes all [US federal holidays](https://www.federalpay.org/holidays)
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
 
 We offer 9 weeks paid parental leave, to be taken anytime during your child's first 6 months with you. This is less than we would like, so as we grow we'll increase the amount of paid leave.
+
+## Policies
+### At-Will Employment Policy
+
+Your employment with TruckMap is at will. This means that you are free to terminate your employment at any time, with or without cause and the company has a right to terminate your employment at any time as well, with or without cause. No one in the company other than the CEO has the authority to alter your at-will status or to enter into any agreement for employment for a specified period of time or to make any agreement contrary to this policy. Only the CEO may do so, and only in a written agreement signed by both the CEO and you.
+
+*TODO*
+
+- [] Dating Policy
+- [] Harassment Policy
+- [] Complaint Policy
+- [] Drug and Alcohol Policy  
 
 ## Benefits
 ### Health Insurance
