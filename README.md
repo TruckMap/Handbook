@@ -2,7 +2,7 @@
 
 ## Preamble
 
-At TruckMap we like to be agile and pragmatic about everything we do. In that spirit, our handbook lays out our values and guiding principles (and a small number of progressive policies) -- in an open-source document that’s easy to read and understand. Because it’s hosted in a public GitHub repo, anyone can view how it changes over time and submit pull requests to update it.
+At TruckMap we like to be agile and pragmatic about everything we do. In that spirit, our handbook lays out our values and guiding principles in an open-source document that’s easy to read and understand. Because it’s hosted in a public GitHub repo, anyone on the current or future team can view how it changes over time and submit pull requests to update it.
 
 ## Table of Contents
 1. [What We Believe](https://github.com/TruckMap/Handbook#what-we-believe)
