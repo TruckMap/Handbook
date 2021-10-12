@@ -143,7 +143,22 @@ Instead, we set a minimum expected vacation. Our expectation is that everyone (i
 
 Can you truly take "unlimited" vacation? Of course not. You can't expect to take 6 months of paid vacation per year. But, there is also not a hard limit on the number of days off per year that you can take. Between longer vacations and random days off here and there, a typical employee will take off a few weeks per year. Can you take more than that? Sure, but we'd recommend having a conversation with your manager about it ahead of time.
 
-TruckMap observes all [US federal holidays](https://www.federalpay.org/holidays), plus the day after Thanksgiving.
+### Observed Holidays
+* New Year's Day
+* Birthday of Martin Luther King, Jr.
+* Washington's Birthday (President's Day)
+* Memorial Day
+* Juneteenth Independence Day
+* Independence Day (July 4th)
+* Labor Day
+* Thanksgiving Day
+* Thanksgiving Day (Friday after)
+* Christmas Eve
+* Christmas Day
+* New Year's Eve
+* Your Birthday 🎉
+
+Please reference the list of [US federal holidays](https://www.federalpay.org/holidays) for when these days are observed, or let your manager know if your country's equivalent holiday resides on a different day that you'd like to take off.
 
 ### Parental Leave
 One important policy that many early-stage startups ignore is parental leave. We believe that having a great parental leave plan is critical to attracting and retaining top talent who are parents or want to become parents. Parental leave is for any kind of parent, mother or father, by birth, adoption, or surrogacy.
